@@ -17,12 +17,11 @@ Already-converted expressions (`\(...\)`, `\[...\]`) are left untouched.
 
 - **Toggle button** — `MJ ○ / MJ ●` in the editor toolbar to enable or disable conversion
 - **Paste** — converts on paste via JavaScript
-- **Typing** — converts ~1 second after you stop typing via Anki's typing timer hook
 
 ## Installation
 
-1. Copy `__init__.py` and `manifest.json` into a new folder inside your Anki addons directory:
-   - Windows: `%APPDATA%\Anki2\addons21\latex_mathjax\`
+1. Copy folder inside your Anki addons directory:
+   - Windows: `%APPDATA%\Anki2\addons21\`
 2. Restart Anki
 
 ## Compatibility
